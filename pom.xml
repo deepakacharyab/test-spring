@@ -10,7 +10,7 @@
     </parent>
     <groupId>test-spring</groupId>
     <artifactId>test-spring</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>1.1-SNAPSHOT</version>
     <name>test-spring</name>
     <description>test-spring</description>
     <properties>
